@@ -1,0 +1,22 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test files
+/test.py
+styles.css
+
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named
+temp/
+
+../challenges/test.txt
+../challenges/test.py
+
+# Python related
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
