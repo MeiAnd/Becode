@@ -1,0 +1,41 @@
+# Python related
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Logs
+*.log
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Flask generated files
+instance/
+
+# Database files
+*.db
+*.sqlite3
+*.sql
+
+# Environment variables file
+.env
+
+# Compiled Python files
+*.pyc
+
+# Dependency directories
+env/
+venv/
+
+# Files
+config.py
