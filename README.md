@@ -31,7 +31,7 @@ In this repository you will find all the individual and group projects that were
 
 ## Pentesting
 
-####Information Gathering Active Enumeration
+#### Information Gathering Active Enumeration
 
 * [DNS](https://github.com/MeiAnd/Becode/blob/main/Pentest/01.Information_Gathering/Active/dns.md)
 * [HTTP](https://github.com/MeiAnd/Becode/blob/main/Pentest/01.Information_Gathering/Active/http.md)
@@ -40,9 +40,11 @@ In this repository you will find all the individual and group projects that were
 * [SMTP](https://github.com/MeiAnd/Becode/blob/main/Pentest/01.Information_Gathering/Active/smtp.md)
 * [Vulnerability Scanning](https://github.com/MeiAnd/Becode/blob/main/Pentest/01.Information_Gathering/Active/vulnerabilites-scann.md)
 
-####Information Gathering Passive
+#### Information Gathering Passive
 
-* [Frameworks](
+* [Frameworks](https://github.com/MeiAnd/Becode/tree/main/Pentest/00-Framework)
+* [Paperwork](https://github.com/MeiAnd/Becode/tree/main/Pentest/00-Framework/paperwork)
+* [Challenges](https://github.com/MeiAnd/Becode/tree/main/Pentest/01.Information_Gathering/Passive/challenges)
 
 ## Other
 
