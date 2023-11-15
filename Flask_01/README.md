@@ -125,6 +125,7 @@ CSRF protection requires a secret key to securely sign the token. By default thi
 
 **[raw code](app.py)**
 
+
 Installation the MySQL 
 
 	brew install mysql
@@ -157,7 +158,7 @@ Securing sensitive information like database credentials is essential in any app
 [**HTML HERE**](templates/index.html)
 
 
-##NOSQL 
+## NOSQL 
 [Tutorial from Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-mongodb-in-a-flask-application)
 
 First step
